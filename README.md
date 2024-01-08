@@ -5,7 +5,8 @@ Major project on Network Intrusion Detection System
 Network-Intrusion-Detection-Using-Machine-Learning
   - Datasets
     - **Normal_data.csv** - CSV Dataset file for Normal data
-    - **metasploit.csv** - CSV dataset file for attacks 
+    - **metasploit.csv** - CSV dataset file for attacks
+    - **bin_data.csv** - CSV dataset for Binary labels
 
   - Labels
     - **le1_classes.npy** - Numpy file for ndarray containing Binary Labels
