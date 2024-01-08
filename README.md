@@ -33,7 +33,6 @@ The InSDN dataset
  - Pandas 
  - Numpy
  - Matplotlib
- - Pickle
 
 ## Running the Notebook
 The notebook can be run on 
