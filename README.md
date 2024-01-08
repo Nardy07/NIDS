@@ -25,7 +25,7 @@ Network-Intrusion-Detection-Using-Machine-Learning
     - **lstm_binary_roc.png** - Multi Layer Perceptron Loss Plot for Multi-class 
 
 ## Dataset
-The InSDN dataset 
+The InSDN dataset (https://aseados.ucd.ie/datasets/SDN/)
 
 ## Prerequisites
  - Keras 
